@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063328855055",
+    "project_id": "tutorialspoint-7387a",
+    "storage_bucket": "tutorialspoint-7387a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063328855055:android:438a27e13d16cb2ba21f7a",
+        "android_client_info": {
+          "package_name": "com.example.tutorialspoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rY-HyAk0Ikyh3vNTx2HetP_ROEMp6_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
